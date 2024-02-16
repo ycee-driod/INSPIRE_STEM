@@ -1,0 +1,7 @@
+print("My name is ian")
+print(" I come from Juja Town")
+print("I am 19 years old")
+print("I like riding bikes")
+print("-----------")
+print("***********")
+print("###########")
