@@ -15,7 +15,7 @@ print(2**3)
 # >> right shift is equivalent to dividing by 2 raised to power
 print(20 >> 1)
 print(20 >> 2)
-# <<leftbshiftbis equivalentnto multipling by 2 raised to power
+# <<left shiftb is equivalent to multipling by 2 raised to power
 print(20 << 1)
 print(20 << 2)
 

@@ -1,12 +1,12 @@
 # This is a program to calculate the volume of a sphere
 # Date 20/02/2024
-# Written by: Scyther
+# Written by: ian
 # A = P(1+0.01r)^n
 
 import math
 
-# P is the princial, the initial amount paid
-P = float(input ("Enter Principal"))
+# P is the principle, the initial amount paid
+P = float(input ("Enter Principle"))
 # r is the rate in percentage
 r = float(input ("Enter rate in percentage"))
 # n is the duration in months
