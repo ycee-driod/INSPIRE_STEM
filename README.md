@@ -1,1 +1,0 @@
-# INSPIRE_STEM
