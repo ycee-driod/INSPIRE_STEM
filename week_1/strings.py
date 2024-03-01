@@ -4,6 +4,7 @@
 
 city = "nairobi"
 
+
 # convert to uppercase
 
 
@@ -46,6 +47,21 @@ age = 17
 height = 5.5
 
 print("I am {0} years old and {1} meters tall" . format (age, height))
+
+#printing 
+activity = "dancing"
+print("My hobby is %s" %(activity))
+
+height = 5.71111
+print("My height is %5.4f"% (height))
+
+name = "iankimathi"
+print(f"My full name is {name}")
+
+school = "Engineering"
+course = "civil"
+
+print("I am studying {course} in the school of {school} .format(course = "civil",school = "Engineering" )")
 
 
 

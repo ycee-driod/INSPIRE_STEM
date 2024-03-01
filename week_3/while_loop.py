@@ -1,13 +1,21 @@
-# A code that writes my name 5 times
+# while loop
 
-for number  in range(0,6):
-    print(str(number) + "\t", end =)
-    print("\t")
-    print("ian kimathi")
+x = 1
 
-    number = 20
+while x < 10 : 
+    
+    # if x == 5:
+    #    break
 
-    for i in range(1,20):
-        while i < 20
-        print(i)
+    if x == 6:
+        continue
+    x = x + 1
+    print(x)
+
+x = 2 # integer
+h = 6.8906 # float
+print(float(x))
+print(int(h))
+
+
 
