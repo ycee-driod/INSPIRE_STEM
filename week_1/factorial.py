@@ -2,11 +2,12 @@
 #Date:22/02/2024
 #Name: ian
 
+# print even numbers:
+for i in range (0,20,2):
+    print(i)
 
-num = int(input("Enter a number to find the factorial: "))
+    # print odd numbers:
+    
 
-count = 1
-for i in range(1,num+1):
-    count *= i
 
-print(count)
+

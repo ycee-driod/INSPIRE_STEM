@@ -2,19 +2,24 @@
 # written by : Ian
 # date : 21/2/2024
 
-EmployeesName = "Silvester"
-age = "35"
-salary = "185000"
-bonuses = "13500"
+f_name = input("Enter your first name : ")
+s_name =  input("Enter your second name : ")
+salary = float(input("Enter your salary : "))
+bonus = float(input("Enter your bonus : "))
+s_1= (salary + bonus)
 
-incr = "Increase"
-dec = "Decrease"
+print("My name is",f_name+s_name)
+print("The original salary and bonus is ",s_1)
 
-incrsalary = 130/100
-decbonuses = 5000
+p = salary
+r =float(input("Enter the rate : "))
+b =float(input("Enter the bonus change : "))
 
-print("employees new income is equal to", salary * 30)
-print("employees new income is equal to",salary - 5000 )
+h = (p + (p * (r / 100)))
+n_s =(h + (bonus + b ))
+print("My name is",f_name+s_name)
+print("the new salary and bonus is",n_s)
+  
 
 
 
